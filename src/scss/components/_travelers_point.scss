@@ -1,0 +1,65 @@
+.travelers_point {
+    display: flex;
+    width: 1180px;
+    height: 450px;
+    margin: 0px 50px 100px 50px;
+}
+
+.travelers_point_img {
+    margin-right: 30px;
+}
+
+.travelers_point_info {
+    display: flex;
+    flex-direction: column;
+}
+
+.title_travelers {
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--dark-green);
+    margin: 0 0 20px 0;
+    margin-top: 10px;
+}
+
+.title_header {
+    margin: 0 0 20px;
+    font-weight: 700;
+    font-size: 27.65px;
+    color: var(--dark-color);
+}
+
+.lorem {
+    margin: 0 0 35px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28.8px;
+    color: var(--dark-color);
+    text-align: left;
+}
+
+.customers_info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.top{
+    margin-bottom: 25px;
+}
+
+.customers_info_title {
+    font-weight: 700;
+    font-size: 27.65px;
+    color: var(--dark-green);
+    text-align: left;
+    padding: 0;
+    margin: 0 0 5px 0;
+}
+
+.customers_infor_text{
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--dark-color);
+    text-align: left;
+}

@@ -1,0 +1,141 @@
+.contact_content {
+    max-width: 1180px;
+    max-height: 676px;
+    margin: 111px 50px 100px 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.left_block_contact {
+    max-width: 580px;
+    max-height: 676px;
+    margin-right: 20px;
+}
+
+.title_contact_us {
+    margin: 0;
+    padding-bottom: 20px;
+    font-weight: 700;
+    font-size: 27.65px;
+    line-height: 33.18px;
+    color: var(--dark-color);
+}
+
+.text_contact_us {
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 28.8px;
+    color: var(--dark-color);
+    text-align: left;
+}
+.block_input_name {
+    margin: 20px 0 10px 0;
+}
+.input_name_size {
+    width: 572px;
+    height: 57px;
+    border: 1px solid #A8A7AB;
+    border-radius: 10px;
+}
+input::placeholder{
+   padding: 14px 0 14px 20px;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 180%;
+   color: #A8A7AB; 
+}
+.block_input_email {
+    margin-bottom: 10px;
+}
+.block_input_message {
+    margin-bottom: 10px;
+}
+.input_message_size {
+    width: 572px;
+    height: 145px;
+    border: 1px solid #A8A7AB;
+    border-radius: 10px;
+}
+.btn_wrapper_send {
+    width: 81px;
+    height: 39px;
+    border-radius: 8px;
+    background-color: var(--green-light);
+}
+
+.btn_send_text {
+    padding: 5px 20px 5px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: white;
+}
+.right_block_contact {}
+
+.block_map_contact {
+    width: 580px;
+    height: 314px;
+    
+}
+.google_map_contact_us{
+    width: 580px;
+    height: 314px;
+}
+
+.block_contact_us_information {
+    max-width: 580px;
+    max-height: 129px;
+    margin: 20px 0 20px 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.left_block_information {
+    margin-right: 23px;
+    width: 280px;
+}
+
+.item_block_information {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+
+.title_information_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: black;
+    margin: 0;
+}
+
+.text_information_contact {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: var(--dark-color);
+    margin: 0;
+}
+
+.right_block_information {
+    width: 280px;
+}
+.bottom_right_block_info {}
+
+.text_information_contact_bottom {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: var(--dark-color);
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.title_bottom_number {
+   font-weight: 400;
+   font-size: 68.8032px;
+   line-height: 120%;
+   color: var(--dark-color);
+   margin: 0;
+}

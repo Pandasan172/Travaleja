@@ -1,0 +1,57 @@
+.our_team_block {
+    margin: 100px 50px 100px 50px;
+    max-width: 1180px;
+    max-height: 443px;
+}
+
+.out_team_title {
+    font-weight: 700;
+    font-size: 27.65px;
+    line-height: 33.18px;
+    color: var(--dark-color);
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.our_team_descriptions {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28.8px;
+    color: var(--dark-color);
+    text-align: left;
+}
+
+.block_our_team_peson {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 45px;
+}
+
+.block_our_team_prson_item {}
+
+.our_team_person_name {
+    font-size: 19.2px;
+    line-height: 34.56px;
+    font-weight: 400;
+    color: var(--dark-color);
+    text-align: left;
+    margin: 0;
+
+}
+
+.person_job {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28.8px;
+    color: var(--dark-color);
+    text-align: left;
+}
+.block_icon_tour {
+    max-width: 1180px;
+    max-height: 282px;
+    margin: 0 50px 100px 50px;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+}

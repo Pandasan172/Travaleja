@@ -1,0 +1,130 @@
+.footer {
+    background-color: var(--dark-green);
+    width: 1280px;
+    height: 447px;
+}
+.footer_content{
+    display: flex;
+    flex-direction: column;
+    width: 1179.67px;
+    height: 347px;
+    margin: 41px 50.33px 59px 50px;
+}
+.footer_top_block {
+    display: flex;
+    flex-direction: row;
+    width: 1179.67px;
+    height: 248px;
+}
+
+.left_top_block {
+    width: 301px;
+    height: 248px;
+    margin-right: 89.41px;
+}
+
+.name_comp {
+    font-size: 33.18px;
+    font-weight: 400;
+    color: var(--white-color);
+    margin: 0;
+    padding: 10px 143px 20px 10px;
+}
+
+.footer_text {
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--white-color);
+    text-align: left;
+    padding: 0 10px 10px 10px;
+    line-height: 24px;
+}
+
+.top_block_links {}
+
+.footer_title {
+    font-weight: 700;
+    font-size: 19.2px;
+    color: var(--white-color);
+    padding: 5px 0px 20px 10px;
+}
+
+.footer_list_links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.footer_links_items {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--white-color);
+}
+.foter_links_item_text{
+    padding-bottom: 10px;
+    padding-left: 10px;
+    white-space: nowrap;
+    padding-right: 10px;
+}
+.top_block_links_first {
+    margin-top: 17px;
+    width: 128px;
+    height: 225px;
+    margin-right: 80.69px;
+}
+
+.top_block_links_second {
+    margin-top: 17px;
+    margin-right: 74.57px;
+}
+
+.top_block_links_third {
+    margin-top: 17px;
+    width: 322px;
+    height: 225px;
+}
+.bottom_block {
+    margin-top: 20px;
+    width: 202.19px;
+    height: 79px;
+}
+
+.bottom_title {
+    font-weight: 700;
+    font-size: 19.2px;
+    color: var(--white-color);
+    margin: 0;
+    padding: 5px 24.91px 5px 10px;
+}
+
+.bottom_img {
+    display: flex;
+    gap: 10px;
+}
+
+.img_svg_footer {
+    padding: 5px 0 5px 10px;
+}
+
+.first_svg_footer {
+    padding: 5px 0 5px 0;
+}
+
+.second_svg_footer {
+    padding: 5px 0 5px 0;
+}
+
+.third_svg_footer {
+    padding: 7.77px 0 7.77px 0;
+}
+
+.forth_svg_footer {
+    padding: 5px 0 5px 0;
+}
+
+.fifth_svg_footer {
+    padding: 5.3px 0 5.3px 0;
+}

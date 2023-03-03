@@ -1,0 +1,36 @@
+// базовые подключения
+@import "vars";
+@import "mixins";
+// @import "fonts";
+@import "settings";
+
+// підключення компонентів до сторінки
+@import "./components/header";
+@import "./components/travelers_point";
+@import "./components/top_destination";
+@import "./components/testimonial";
+@import "./components/footer";
+@import "./components/discover/header_discover";
+@import "./components/discover/header_img_dicover";
+@import "./components/discover/discover_main";
+@import "./components/footer";
+@import "./components/service/header_discover";
+@import "./components/service/header_img_service";
+@import "./components/service/service_price";
+@import "./components/service/facilities";
+@import "./components/service/our_service";
+@import "./components/service/footer";
+@import "./components/news/header_discover";
+@import "./components/news/header_img_news";
+@import "./components/news/news_content";
+@import "./components/news/footer";
+@import "./components/about_us/header_discover";
+@import "./components/about_us/header_img_about_us";
+@import "./components/about_us/choose_us";
+@import "./components/about_us/our_team";
+@import "./components/about_us/footer";
+@import "./components/contact_us/header_discover";
+@import "./components/contact_us/header_img_contact";
+@import "./components/contact_us/contact_content";
+@import "./components/contact_us/footer";
+

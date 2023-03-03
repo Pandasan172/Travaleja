@@ -1,0 +1,80 @@
+.our_service_block {
+    max-height: 561px;
+    max-width: 1180px;
+    margin: 100px 50px 100px 50px;
+}
+
+.our_service_top_block {
+    margin: 0 482px 36px 482px;
+}
+
+.our_serivce_desription_top {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28.8px;
+    color: var(--dark-color);
+    text-align: center;
+}
+
+.our_serivce_title_top {
+    text-align: center;
+    margin: 0;
+    font-weight: 700;
+    font-size: 33.18px;
+    line-height: 39.82px;
+    white-space: nowrap;
+    color: var(--dark-color);
+}
+
+.content_our_service {
+    max-width: 1180px;
+    height: 456px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.content_our_service_block_1::before{
+    content:" ";
+    background-image: url("/img/svg/service_svg/haking_svg.svg");
+}
+.content_our_service_block_2 {}
+.content_our_service_block_3 {}
+.content_our_service_block_4 {}
+.content_our_service_block_5 {}
+.content_our_service_block_6 {}
+
+.title_content_our_service {
+    font-weight: 700;
+    font-size: 27.65px;
+    line-height: 33.18px;
+    color: var(--dark-color);
+}
+
+
+.text_content_our_service {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28.8px;
+    color: var(--dark-color);
+    text-align: left;
+}
+
+.btn_our_service_wrapper {
+    width: 127px;
+    height: 39px;
+    margin-top: 20px;
+    background-color: var(--green-light);
+    border-radius: 8px;
+}
+
+.btn_our_service {
+    text-decoration: none;
+}
+
+.btn_our_service_text {
+    padding: 5px 20px 5px 20px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 180%;
+}

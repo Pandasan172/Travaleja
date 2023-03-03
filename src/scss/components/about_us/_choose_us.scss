@@ -1,0 +1,103 @@
+.choose_us {
+    max-width: 1180px;
+    max-height: 366px;
+    margin: 100px 50px 100px 50px;
+}
+
+.choose_us_title {
+    font-weight: 700;
+    font-size: 27.65px;
+    line-height: 33.18px;
+    color: var(--dark-color);
+    text-align: center;
+    margin: 0;
+}
+
+.choose_us_description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28.8px;
+    text-align: center;
+    color: var(--dark-color);
+    padding-top: 10px;
+}
+
+.choose_us_blocks {
+    margin-top: 50px;
+    max-width: 1180px;
+    max-height: 244px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.choose_us_block_1 {
+}
+
+.protection {
+    padding: 0 124px 11px 134px;
+}
+.calendar{
+    padding: 0 138.33px 11px 135px;
+
+}
+.support{
+    padding: 5.34px 129.33px 11px 133.33px;
+}
+
+.choose_us_block_title {
+    font-weight: 400;
+    font-size: 23.04px;
+    line-height: 27.65px;
+    color: var(--dark-color);
+    text-align: center;
+    padding-bottom: 10px;
+}   
+
+.chhose_us_block_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28.8px;
+    text-align: center;
+    color: var(--dark-color);
+}
+
+.choose_us_block_2 {}
+
+.choose_us_block_3 {}
+
+.about_travelaja {
+    margin: 0 50px 0 50px;
+    width: 1180px;
+    height: 494px;
+    display: flex;
+    flex-direction: row;
+}
+
+.travaleja_block_text {
+    margin: 85px 20px 85px 0;
+}
+
+.about_travalaja_title {
+    font-weight: 700;
+    font-style: 27.65px;
+    line-height: 33.18px;
+    color: var(--dark-color);
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+.about_travalaja_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    color: var(--dark-color);
+    text-align: left;
+
+}
+.text_teavaleja_bottom{
+    padding-top: 10px;
+}
+
+.travalega_img_block {}

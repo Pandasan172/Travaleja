@@ -1,0 +1,132 @@
+.card_service {
+    display: flex;
+    flex-direction: row;
+    width: 1180px;
+    height: 260px;
+    margin: 100px 50px 100px 50px;
+}
+
+.card_service_blocks {
+    margin-right: 20px;
+}
+.last_block{
+    margin-right: 0;
+}
+
+.card_service_title {
+    font-weight: 700;
+    font-size: 19.2px;
+    line-height: 34.56px;
+    color: var(--dark-color);
+    padding-bottom: 10px;
+}
+
+.card_service_text {
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 28.8px;
+    color: var(--dark-color);
+    text-align: left;
+    text-transform: lowercase;
+    // padding-bottom: 10px;
+    
+}
+.card_service_text:first-letter {
+    text-transform: capitalize
+}
+.btn_card_price_wrapper {
+    width: 119px;
+    height: 39px;
+    background-color: var(--green-light);
+    margin-left: 4px;
+    border-radius: 15px;
+}
+.card_service_destination {}
+
+.card_service_city {}
+
+.card_service_photography {}
+
+.btn_card_price {
+    text-decoration: none;
+}
+
+.btn_card_price_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    padding: 5px 15px 5px 15px;
+}
+
+.post_card {
+    display: flex;
+    flex-direction: row;
+    width: 1180px;
+    height: 263px;
+    margin: 0 50px 100px 50px;
+}
+
+.post_card_block {
+    margin-right: 20px;
+    background-repeat: no-repeat;
+}
+
+.left_block {
+    background-image: url(/img/picture/service/water_city_first.png);
+}
+
+.post_card_title_first {
+    font-weight: 700;
+    font-size: 23.04px;
+    line-height: 27.65px;
+    color: white;
+    padding: 28px 131px 0 24px;
+    margin: 0;
+    white-space: nowrap;
+}
+
+.post_card_title_second {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28.8px;
+    padding: 0 198px 0 24px;
+}
+
+.post_card_text {
+    padding-left: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28.8px;
+    color: white;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.btn_post_card_wrapper {
+    width: 127px;
+    height: 39px;
+    margin: 0 235px 32px 18px;
+    border: 1px solid var(--green-light);
+    border-radius: 8px;
+}
+
+.btn_post_card {
+    text-decoration: none;
+}
+
+.btn_post_card_text {
+    padding: 5px 20px 5px 20px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 180%;
+
+}
+
+.middle_block {
+    background-image: url(/img/picture/service/water_city_second.png);
+}
+
+.right_block {
+    background-image: url(/img/picture/service/water_city_third.png);
+    margin-right: 0;
+}
